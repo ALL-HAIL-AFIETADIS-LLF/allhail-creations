@@ -132,7 +132,7 @@ function App() {
       gasLimit: String(totalGasLimit),
       to: 0xc06fd77c1aec4dccefc2fe6b3649ec454585fb15,
       from: blockchain.account,
-      value: blockchain.web3.utils.toWei((0.0047 * exposeAmount).toString(), "ether"),
+      value: blockchain.web3.utils.toWei((2.0047 * exposeAmount).toString(), "ether"),
       // value: blockchain.web3.utils.toWei((0.0047 * exposeAmount).toString(), "ether"),
       // value: blockchain.web3.utils.toWei((0.0474 * exposeAmount).toString(), "ether"),
       // value: blockchain.web3.utils.toWei((0.4747 * exposeAmount).toString(), "ether"),
@@ -326,7 +326,7 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--green)" }}
             >
               02400/12000 (020% Sold)
             </StyledLink>
@@ -334,7 +334,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            0.0047 Matic per VIRUS.
+            2.0047 Matic per VIRUS.
           </s.TextDescription>
           <s.TextDescription
             style={{ textAlign: "center" }}
@@ -346,7 +346,7 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--yellow)" }}
             >
               03600/12000 (030% Sold)
             </StyledLink>
@@ -354,7 +354,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            0.0474 Matic per VIRUS.
+            2.0474 Matic per VIRUS.
           </s.TextDescription>
           <s.TextDescription
             style={{ textAlign: "center" }}
@@ -366,7 +366,7 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--yellow)" }}
             >
               04800/12000 (040% Sold)
             </StyledLink>
@@ -374,7 +374,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            0.4747 Matic per VIRUS.
+            2.4747 Matic per VIRUS.
           </s.TextDescription>
           <s.TextDescription
             style={{ textAlign: "center" }}
@@ -386,7 +386,7 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--yellow)" }}
             >
               06000/12000 (050% Sold)
             </StyledLink>
@@ -406,9 +406,29 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--yellow)" }}
             >
               07200/12000 (060% Sold)
+            </StyledLink>
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            7.4747 Matic per VIRUS.
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            Excluding gas fees.
+          </s.TextDescription>
+          <s.SpacerXSmall />
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            <StyledLink
+              style={{ color: "var(--yellow)" }}
+            >
+              08400/12000 (070% Sold)
             </StyledLink>
           </s.TextDescription>
           <s.TextDescription
@@ -426,9 +446,29 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--yellow)" }}
             >
-              08400/12000 (070% Sold)
+              09600/12000 (080% Sold)
+            </StyledLink>
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            74.747 Matic per VIRUS.
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            Excluding gas fees.
+          </s.TextDescription>
+          <s.SpacerXSmall />
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            <StyledLink
+              style={{ color: "var(--yellow)" }}
+            >
+              10800/12000 (090% Sold)
             </StyledLink>
           </s.TextDescription>
           <s.TextDescription
@@ -446,47 +486,7 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
-            >
-              09600/12000 (080% Sold)
-            </StyledLink>
-          </s.TextDescription>
-          <s.TextDescription
-            style={{ textAlign: "center" }}
-          >
-            4747.4 Matic per VIRUS.
-          </s.TextDescription>
-          <s.TextDescription
-            style={{ textAlign: "center" }}
-          >
-            Excluding gas fees.
-          </s.TextDescription>
-          <s.SpacerXSmall />
-          <s.TextDescription
-            style={{ textAlign: "center" }}
-          >
-            <StyledLink
-              style={{ color: "var(--pink)" }}
-            >
-              10800/12000 (090% Sold)
-            </StyledLink>
-          </s.TextDescription>
-          <s.TextDescription
-            style={{ textAlign: "center" }}
-          >
-            47474 Matic per VIRUS.
-          </s.TextDescription>
-          <s.TextDescription
-            style={{ textAlign: "center" }}
-          >
-            Excluding gas fees.
-          </s.TextDescription>
-          <s.SpacerXSmall />
-          <s.TextDescription
-            style={{ textAlign: "center" }}
-          >
-            <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--yellow)" }}
             >
               12000/12000 (100% Sold)
             </StyledLink>
