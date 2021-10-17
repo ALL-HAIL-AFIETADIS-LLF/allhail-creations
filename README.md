@@ -1,10 +1,10 @@
-# The King's Creations
+# The King's NFT
 
-#selitekk... An NFT Project by ALL HAIL THE KING.
+#selitekk... An NFT Project by @MyReceipt.
 
-ALL HAIL THE KING is just the name of a kid when he was 5 years old, since September 2021 all of his creations started to be minted as NFT assets by his father. All creations are created during ALL HAIL's growth and development since he was born until now and beyond. #isokngonoyoo?!?!
+@MyReceipt is not an artist, but an online seller. Since September 2021, when @MyReceipt's son, ALL HAIL THE KING reach 5 years old, started to creating and minting all the remaining things he has to become NFT assets. It includes documentation of various creations made by ALL HAIL since he was born, during his growth and development. Also, various generative artwork was created by @MyReceipt while playing, learning, and working for his son, from now till beyond.
 
 Read more here:
-https://github.com/ALL-HAIL-AFIETADIS-LLF/allhail-creations/wiki/The-Project
+https://github.com/the-aha-llf/the-kings-nft/wiki/The-Project
 
-# © 2021 by AMK for AHA - AHA. LLF.
+# © 2021 by AMK - AHA. LLF.
