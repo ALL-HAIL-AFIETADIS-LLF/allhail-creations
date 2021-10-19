@@ -5,13 +5,13 @@ const isLocal = typeof process.pkg === "undefined";
 const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
-  "The King's Creations! An NFT Project by ALL HAIL THE KING. B2/C1 - Second Batch/First Collection.";
-const baseUri = "ipfs://";
+  "The King's NFT! An NFT Project by @MyReceipt. B2/C1 - Second Batch/First Collection.";
+const baseUri = "ipfs://jangan-lupa-diganti";
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 12000,
-    // growEditionSizeTo: 48,
+    // growEditionSizeTo: 12000,
+    growEditionSizeTo: 24,
     layersOrder: [
       { name: "Backgrounds" },
       { name: "Bottom" },
@@ -45,7 +45,7 @@ const rarityDelimiter = "#";
 const uniqueDnaTorrance = 138240;
 
 const preview = {
-  thumbPerRow: 8,
+  thumbPerRow: 6,
   thumbWidth: 247,
   imageRatio: format.width / format.height,
   imageName: "preview.png",

@@ -1,0 +1,32 @@
+{
+  "dna": "38fe9f9e6518469d0e209d4a81a9a49330ba39e0",
+  "name": "ALLHAILNFT.B2C1 #13",
+  "description": "The King's NFT! An NFT Project by @MyReceipt. B2/C1 - Second Batch/First Collection.",
+  "image": "ipfs://jangan-lupa-diganti/ALLHAILNFT.B2C1-13.png",
+  "edition": 13,
+  "date": 1634654877544,
+  "campaign": "10290 NFTs to crawling the decentralized network. 1470 NFTs to build The King's Office. 210 NFTs to make Sanctuary of The King's World. 30 NFTs to developing and setting The King's Story. In this Universe #3 where The King rules his World. One King that rules them all. One King creates them. One King that mint them all. And in the decentralized world, The King will be live afterlife forever.",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "The Transparant"
+    },
+    {
+      "trait_type": "Bottom",
+      "value": "The Turquoise Slashes"
+    },
+    {
+      "trait_type": "Middle",
+      "value": "The Blue Rounds"
+    },
+    {
+      "trait_type": "Top",
+      "value": "The Turquoise Slashes"
+    },
+    {
+      "trait_type": "Anthropophobia",
+      "value": "Yellow Black"
+    }
+  ],
+  "compiler": "@MyReceipt"
+}

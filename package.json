@@ -1,6 +1,6 @@
 {
-  "name": "thekingscreations_b2",
-  "version": "1.0.6",
+  "name": "thekingscreations_b2_c1",
+  "version": "0.4.7",
   "description": "These repos contain all the code used for creating generative artwork. Before you use these engine, make sure you already meet with ALL HAIL THE KING. Okay!!!",
   "main": "index.js",
   "bin": "index.js",
@@ -15,7 +15,7 @@
     "build": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pabrik Roti Indonesia",
+  "author": "@MyReceipt",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",

@@ -119,7 +119,7 @@ const addMetadata = (_dna, _edition) => {
     date: dateTime,
     ...extraMetadata,
     attributes: attributesList,
-    compiler: "AHA. LLF",
+    compiler: "@MyReceipt",
   };
   metadataList.push(tempMetadata);
   attributesList = [];
