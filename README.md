@@ -9,4 +9,4 @@
 Read more here:
 https://github.com/the-aha-llf/the-kings-nft/wiki/The-Project
 
-# © 2021 by @MyReceipt - AMK - AHA. LLF.
+#### © 2021 by @MyReceipt - AMK - AHA. LLF.
