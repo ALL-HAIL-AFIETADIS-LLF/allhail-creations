@@ -45,15 +45,14 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 
-b2c1/artworks/build/Release
+build/Release
 
 # Dependency directories
 
-# build/
-b2c1/artworks/build/
-b2c1/artworks/dist/
-b2c1/artworks/node_modules/
-b2c1/artworks/jspm_packages/
+build/
+dist/
+node_modules/
+jspm_packages/
 
 # TypeScript v1 declaration files
 
