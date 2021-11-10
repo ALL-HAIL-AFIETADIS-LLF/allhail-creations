@@ -64,7 +64,7 @@ b2c1/artworks/dist/
 b2c1/artworks/node_modules/
 b2c1/artworks/jspm_packages/
 
-b2c1/dapp/build
+b2c1/dapp/build/
 b2c1/dapp/node_modules/
 b2c1/dapp/.pnp
 b2c1/dapp/.pnp.js
