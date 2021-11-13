@@ -442,10 +442,11 @@ function App() {
           <s.Container 
             ai={"center"} 
             jc={"center"} 
-            fd={"row"}>
+            fd={"row"}
+          >
             <StyledLink
               target={"_blank"}
-              href={"https://github.com/pabrik-roti/01-the-breads-factory/wiki"}
+              href={"https://rotilogo.straight-line.org/"}
               rel={"noreferrer"}
             >
               <StyledImg 
@@ -744,7 +745,7 @@ function App() {
           >
             <StyledLink
               target={"_blank"}
-              href={"https://github.com/pabrik-roti/01-the-breads-factory/wiki"}
+              href={"https://rotilogo.straight-line.org/"}
               rel={"noreferrer"}
             >
               <StyledImg 
