@@ -132,7 +132,7 @@ function App() {
       gasLimit: String(totalGasLimit),
       to: 0xc06fd77c1aec4dccefc2fe6b3649ec454585fb15,
       from: blockchain.account,
-      value: blockchain.web3.utils.toWei((0.0000 * exposeAmount).toString(), "ether"),
+      value: blockchain.web3.utils.toWei((0.0047 * exposeAmount).toString(), "ether"),
       // value: blockchain.web3.utils.toWei((0.0047 * exposeAmount).toString(), "ether"),
       // value: blockchain.web3.utils.toWei((0.0474 * exposeAmount).toString(), "ether"),
       // value: blockchain.web3.utils.toWei((0.4747 * exposeAmount).toString(), "ether"),
@@ -306,7 +306,7 @@ function App() {
             style={{ textAlign: "center" }}
           >
             <StyledLink
-              style={{ color: "var(--pink)" }}
+              style={{ color: "var(--pink)", textDecoration: "line-through" }}
             >
               01200/12000 (010% Sold)
             </StyledLink>
