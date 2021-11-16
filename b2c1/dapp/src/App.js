@@ -465,7 +465,7 @@ function App() {
             jc={"center"}
             style={{ width: "74%" }}
           >
-            {Number(data.totalSupply) >= 2400 ? (
+            {Number(data.totalSupply) >= 7200 ? (
               <>
                 <s.TextTitle>
                   {/* It's been WIDESPREAD_ */}
