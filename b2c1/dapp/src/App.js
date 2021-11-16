@@ -348,13 +348,93 @@ function App() {
             <StyledLink
               style={{ color: "var(--pink)" }}
             >
+              03600/12000 (030% Sold)
+            </StyledLink>
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            0.0474 Matic per VIRUS.
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            Excluding gas fees.
+          </s.TextDescription>
+          <s.SpacerXSmall />
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            <StyledLink
+              style={{ color: "var(--pink)" }}
+            >
+              04800/12000 (040% Sold)
+            </StyledLink>
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            0.4747 Matic per VIRUS.
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            Excluding gas fees.
+          </s.TextDescription>
+          <s.SpacerXSmall />
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            <StyledLink
+              style={{ color: "var(--pink)" }}
+            >
+              06000/12000 (050% Sold)
+            </StyledLink>
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            4.7474 Matic per VIRUS.
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            Excluding gas fees.
+          </s.TextDescription>
+          <s.SpacerXSmall />
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            <StyledLink
+              style={{ color: "var(--pink)" }}
+            >
               07200/12000 (060% Sold)
             </StyledLink>
           </s.TextDescription>
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            0.0470 Matic per VIRUS.
+            47.474 Matic per VIRUS.
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            Excluding gas fees.
+          </s.TextDescription>
+          <s.SpacerXSmall />
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            <StyledLink
+              style={{ color: "var(--pink)" }}
+            >
+              08400/12000 (070% Sold)
+            </StyledLink>
+          </s.TextDescription>
+          <s.TextDescription
+            style={{ textAlign: "center" }}
+          >
+            474.74 Matic per VIRUS.
           </s.TextDescription>
           <s.TextDescription
             style={{ textAlign: "center" }}
@@ -374,7 +454,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            0.4700 Matic per VIRUS.
+            4747.4 Matic per VIRUS.
           </s.TextDescription>
           <s.TextDescription
             style={{ textAlign: "center" }}
@@ -394,7 +474,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            4.7000 Matic per VIRUS.
+            47474 Matic per VIRUS.
           </s.TextDescription>
           <s.TextDescription
             style={{ textAlign: "center" }}
@@ -465,7 +545,7 @@ function App() {
             jc={"center"}
             style={{ width: "74%" }}
           >
-            {Number(data.totalSupply) >= 7200 ? (
+            {Number(data.totalSupply) >= 3600 ? (
               <>
                 <s.TextTitle>
                   {/* It's been WIDESPREAD_ */}
