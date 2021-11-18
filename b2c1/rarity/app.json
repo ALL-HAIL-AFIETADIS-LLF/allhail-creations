@@ -1,0 +1,7 @@
+{
+    "name": "Anthropophobia Viruses Rarity",
+    "description": "Anthropophobia Viruses rarity score calculation base on the ERC721 smart contract and the NFT metadata.",
+    "repository": "https://github.com/the-aha-llf/the-kings-nft/",
+    "logo": "https://user-images.githubusercontent.com/32818033/137902942-3f1daf84-6085-401d-9694-92562b82c885.jpg",
+    "keywords": ["NFT", "ERC721", "rarity", "MyReceipt", "The King's NFT", "Anthropophobia Viruses"]
+  }
