@@ -290,7 +290,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            DM&nbsp;
+            There are 1.2k, or 10% from 12k Anthropophobia Viruses privately distributed as a free giveaway. All holders, at least 1 NFT from previous collections, are able to claim giveaways. DM&nbsp;
               <StyledLink
                 title={"Twitter @MyReceiptt"} 
                 target={"_blank"}
@@ -299,7 +299,7 @@ function App() {
               >
                 @MyReceiptt Twitter&nbsp;
               </StyledLink>
-              for details.
+            for details and to claim.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -319,7 +319,17 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            {/* 12 random holders get a giveaway of 1 LPR (
+              <StyledLink
+                title={"pabrik roti - 10k LPR NFT"} 
+                target={"_blank"}
+                href={"https://rotilogo.straight-line.org/"}
+                rel={"noreferrer"}
+              >
+                Logo Pabrik Roti
+              </StyledLink>
+            ) each. */}
+            Expose and let's spread the Anthropophobia Viruses! Free minting the viruses. Excluding gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -339,7 +349,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            Go claim your Anthropophobia Viruses! 2.0047 Matic per Virus. Excluding the gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -359,7 +369,16 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            There will be more benefits from&nbsp;
+              <StyledLink
+                title={"All link to @MyReceiptt..."} 
+                target={"_blank"}
+                href={"https://linktr.ee/myreceipt"}
+                rel={"noreferrer"}
+              >
+                @MyReceiptt
+              </StyledLink>
+            .
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -379,7 +398,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            Excluding the gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -399,7 +418,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            Excluding the gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -419,7 +438,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            Excluding the gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -439,7 +458,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            Excluding the gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -459,7 +478,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            Excluding the gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -479,7 +498,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding gas fees.
+            Excluding the gas fees.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -499,7 +518,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Make this a pandemic!
+            All holders, at least 1 NFT, are whitelisted for the next main collections, and will select 12 random holders to giveaway 0.01 ETH each to make this a pandemic!
           </s.TextDescription>
           <s.SpacerLarge />
         </s.Container>
