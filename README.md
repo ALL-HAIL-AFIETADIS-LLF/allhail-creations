@@ -1,6 +1,7 @@
 # The King's NFT
 
-![The King is ALL HAIL THE KING](https://user-images.githubusercontent.com/32818033/137902942-3f1daf84-6085-401d-9694-92562b82c885.jpg)
+![The Anthropophobia Viruses](https://user-images.githubusercontent.com/32818033/136741721-ab91bb32-6359-4540-afda-19ff38af2e44.png)
+<!-- ![The King is ALL HAIL THE KING](https://user-images.githubusercontent.com/32818033/137902942-3f1daf84-6085-401d-9694-92562b82c885.jpg) -->
 
 #selitekk... The King's NFT is an NFT project by [@MyReceipt](https://linktr.ee/myreceipt).
 
