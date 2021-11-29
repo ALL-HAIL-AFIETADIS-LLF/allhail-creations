@@ -398,7 +398,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding the gas fees.
+            Excluding the gas fees. 1 ETH allocated for promotion.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -418,7 +418,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding the gas fees.
+            Excluding the gas fees. 2 ETH allocated for promotion.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -438,7 +438,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding the gas fees.
+            Excluding the gas fees. 3 ETH allocated for promotion.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -458,7 +458,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding the gas fees.
+            Excluding the gas fees. 4 ETH allocated for promotion.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -478,7 +478,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding the gas fees.
+            Excluding the gas fees. 5 ETH allocated for promotion.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -498,7 +498,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            Excluding the gas fees.
+            Excluding the gas fees. 6 ETH allocated for promotion.
           </s.TextDescription>
           <s.SpacerXSmall />
           <s.TextDescription
@@ -518,7 +518,7 @@ function App() {
           <s.TextDescription
             style={{ textAlign: "center" }}
           >
-            All holders, at least 1 NFT, are whitelisted for the next main collections, and will select 12 random holders to giveaway 0.01 ETH each to make this a pandemic!
+            12 ETH allocated for promotion. All holders, at least 1 NFT, are whitelisted for the next main collections, and will select 12 random holders to giveaway 1 ETH each to make this a pandemic!
           </s.TextDescription>
           <s.SpacerLarge />
         </s.Container>
