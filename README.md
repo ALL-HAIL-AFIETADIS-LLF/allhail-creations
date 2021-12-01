@@ -5,7 +5,7 @@
 
 #selitekk... The King's NFT is an NFT project by [@MyReceipt](https://linktr.ee/myreceipt).
 
-[@MyReceipt](https://linktr.ee/myreceipt) is not an artist, but an online seller. Since September 2021, when [@MyReceipt](https://linktr.ee/myreceipt)'s son, ALL HAIL THE KING reach 5 years old, started to create and mint all the remaining things he has to become NFT assets. It includes documentation of various creations made by ALL HAIL since he was born, during his growth and development. Also, various generative artwork was created by [@MyReceipt](https://linktr.ee/myreceipt) while playing, learning, and working for his son, from now till beyond.
+[@MyReceipt](https://linktr.ee/myreceipt) is not an artist, but an online seller. Since September 2021 [@MyReceipt](https://linktr.ee/myreceipt) started to create and mint NFTs assets with all the remaining things he has. It includes various creations of his 5 years old son, and various generative artwork that was created by [@MyReceipt](https://linktr.ee/myreceipt) while playing, learning, and working for his son, from now till beyond.
 
 Read more here:
 https://github.com/the-aha-llf/the-kings-nft/wiki/The-Project
