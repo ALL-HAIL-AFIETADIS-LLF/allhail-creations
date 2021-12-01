@@ -2,7 +2,7 @@
 
 Anthropophobia Viruses rarity score calculation base on the ERC721 smart contract and the NFT metadata.
 
-This rarity score calculation forked by [@MyReceiipt](https://linktr.ee/myreceipt/) from Cool Rarity that made with love by [Fukuball](https://twitter.com/fukuball) in a [Hackathon](https://github.com/punkscape/01-rarity-analyser-hackathon) hosted by [PunkScape](https://punkscape.xyz/). It is easy to configure for developers and easy to use for users, any ERC721 NFT collection with [OpenSea metadata standard](https://docs.opensea.io/docs/metadata-standards) can use this as the rarity score calculation tool. If you have the collection metadata in hand, you can depoly it as your collection rarity tool in minues!
+This rarity score calculation forked by [@MyReceipt](https://linktr.ee/myreceipt/) from Cool Rarity that made with love by [Fukuball](https://twitter.com/fukuball) in a [Hackathon](https://github.com/punkscape/01-rarity-analyser-hackathon) hosted by [PunkScape](https://punkscape.xyz/). It is easy to configure for developers and easy to use for users, any ERC721 NFT collection with [OpenSea metadata standard](https://docs.opensea.io/docs/metadata-standards) can use this as the rarity score calculation tool. If you have the collection metadata in hand, you can depoly it as your collection rarity tool in minues!
 
 If you are infected with Anthropophobia Viruses and want to check how rare the virus that already infected you, here's the link to check Anthropophobia Viruses: [b2c1-rarity.herokuapp.com/](b2c1-rarity.herokuapp.com/)
 
