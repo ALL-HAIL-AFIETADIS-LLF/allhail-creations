@@ -1,6 +1,7 @@
 # The King's NFT
 
-![The Anthropophobia Viruses](https://user-images.githubusercontent.com/32818033/136741721-ab91bb32-6359-4540-afda-19ff38af2e44.png)
+![The King's NFTs](https://user-images.githubusercontent.com/32818033/144804055-4104cb64-50a1-45fc-9d96-b613a68cb475.jpg)
+
 <!-- ![The King is ALL HAIL THE KING](https://user-images.githubusercontent.com/32818033/137902942-3f1daf84-6085-401d-9694-92562b82c885.jpg) -->
 
 #selitekk... The King's NFT is an NFT project by [@MyReceipt](https://crot.straight-line.org/47/74).
